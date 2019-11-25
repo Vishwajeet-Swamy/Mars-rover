@@ -4,7 +4,7 @@
 
 Install MAMP on your Mac.
 
-Copy the project into the server space i.e Go to Application find MAMP directory in MAMP find htdocs and create a direcory with the name mars-rover-problem-CI paste the project here.
+Copy the project into the server space i.e Go->Computer->Application find MAMP directory, in MAMP find htdocs and create a direcory with the name mars-rover-problem-CI paste the project here.
 
 open the web browser
 
