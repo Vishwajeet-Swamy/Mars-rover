@@ -8,9 +8,9 @@ Copy the project into the server space i.e Go->Computer->Application find MAMP d
 
 open the web browser
 
-If your apache local server is running on default port i.e 80 then go to the url http://localhost/mars-rover-problem-CI/
+If your MAMP apache local server is running on default port i.e 80 then go to the url http://localhost/mars-rover-problem-CI/
 
-If your apache local server is running on other than default port Ex:8080 then go to the url http://localhost:8080/mars-rover-problem-CI/
+If your MAMP apache local server is running on any other port ( not default port ) Ex:8080 then go to the url http://localhost:8080/mars-rover-problem-CI/
 
 ## INPUT
 
